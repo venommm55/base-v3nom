@@ -24,3 +24,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Explored mapping and arrays in Solidity
 - Deployed MessageBoard contract
 - Getting more comfortable with Remix IDE
+
+### Day 4
+- Learned about constructors and msg.sender
