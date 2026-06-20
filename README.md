@@ -29,3 +29,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Learned about constructors and msg.sender
 - Deployed OwnerInfo contract
 - The Base ecosystem is growing fast!
+
+### Day 5
+- Practiced writing pure functions
