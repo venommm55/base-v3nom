@@ -37,3 +37,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 6
 - Explored payable functions
+- Deployed SimpleVault contract
