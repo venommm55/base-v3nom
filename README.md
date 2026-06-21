@@ -34,3 +34,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Practiced writing pure functions
 - Deployed NumberDoubler and Multiplier contracts
 - Solidity is starting to make sense now
+
+### Day 6
+- Explored payable functions
