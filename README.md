@@ -39,3 +39,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Explored payable functions
 - Deployed SimpleVault contract
 - Building everyday, no days off!
+
+### Day 7
+- One week of building on Base
