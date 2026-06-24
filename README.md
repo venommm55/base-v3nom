@@ -53,4 +53,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 9
 - Deployed SimpleTimer contract
 - Understanding block.timestamp usage
-- 
+- Every day onchain is a good day
