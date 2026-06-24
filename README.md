@@ -50,3 +50,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Learning how arrays work in Solidity
 - Base ecosystem keeps growing, bullish!
 
+### Day 9
+- Deployed SimpleTimer contract
+- 
