@@ -82,3 +82,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 15
 - Deployed ColorStore contract
+- Practiced string storage in Solidity
