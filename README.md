@@ -72,4 +72,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 13
 - Deployed BaseQuote contract
+- Kept it simple today, consistency > intensity
 - 
