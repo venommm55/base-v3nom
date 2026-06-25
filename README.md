@@ -75,4 +75,7 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Kept it simple today, consistency > intensity
 - The future is onchain
 
+### Day 14 
+- Two weeks in, feeling like a real builder
+- 
 
