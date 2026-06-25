@@ -57,3 +57,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 10 
 - 10 days of consistent building
+- Deployed GmCounter contract
