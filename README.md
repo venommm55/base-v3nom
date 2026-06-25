@@ -69,3 +69,7 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Deployed LuckyNumber contract
 - Learned about mappings with address keys
 - Loving the low fees on Base Mainne
+
+### Day 13
+- Deployed BaseQuote contract
+- 
