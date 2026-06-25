@@ -67,3 +67,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 12
 - Deployed LuckyNumber contract
+- Learned about mappings with address keys
+- 
