@@ -80,4 +80,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Deployed VisitorCount contract
 - 14 commits strong, not stopping now
 
-
+### Day 15
+- Deployed ColorStore contract
