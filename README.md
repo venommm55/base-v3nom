@@ -85,3 +85,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Practiced string storage in Solidity
 - Small contracts, big learnings
 
+### Day 16
+- Deployed YearStore contract
+- 
