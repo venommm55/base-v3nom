@@ -100,3 +100,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Practiced msg.sender for user-specific storage
 - Onchain notes > regular notes
 
+### Day 19
+- Deployed Hodler contract
