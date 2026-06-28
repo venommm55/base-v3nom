@@ -107,4 +107,7 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 20
 - Deployed BuildLog contract
-- 
+- Tracking my builder journey onchain now
+- 20 days, 20+ contracts, no days off
+
+
