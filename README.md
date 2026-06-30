@@ -155,4 +155,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Gamifying my builder journey
 - High score: infinite
 
-
+### Day 30 — ONE MONTH! 🎉
+- 30 days of building on Base!
+- 
