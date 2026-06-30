@@ -117,4 +117,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 22
 - Deployed SkillTree contract
+- Logging my Solidity skills onchain
 - 
