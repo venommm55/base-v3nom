@@ -152,4 +152,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 29
 - Deployed BuilderScore contract
+- Gamifying my builder journey
 - 
