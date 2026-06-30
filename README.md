@@ -128,4 +128,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 24
 - Deployed CommitMessage contract
 - Meta moment: committing about commits
-- 
+- Consistency is the real alpha
+
+
