@@ -157,4 +157,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 30 — ONE MONTH! 🎉
 - 30 days of building on Base!
+- Deployed OnchainBio contract
 - 
