@@ -125,4 +125,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - GitHub + Base = builder's best combo
 - Commit by day, deploy by night
 
-
+### Day 24
+- Deployed CommitMessage contract
+- 
