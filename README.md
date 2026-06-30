@@ -173,4 +173,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 33
 - Deployed PriceTracker contract
 - Tracking prices onchain, very bullish activity
-- 
+- ETH only goes up in my contract
