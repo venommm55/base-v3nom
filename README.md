@@ -123,4 +123,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 23
 - Deployed RepoCounter contract
 - GitHub + Base = builder's best combo
-- 
+- Commit by day, deploy by night
+
+
