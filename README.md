@@ -120,4 +120,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Logging my Solidity skills onchain
 - Skills learned: storage, mappings, arrays, events
 
-
+### Day 23
+- Deployed RepoCounter contract
+- 
