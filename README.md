@@ -112,4 +112,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 21
 - Deployed GoalTracker contract
+- Setting goals onchain keeps me accountable
 - 
