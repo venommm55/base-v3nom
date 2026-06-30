@@ -149,3 +149,7 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Deployed DailyStreak contract
 - Streak: 28 days and counting
 - Never breaking the chain
+
+### Day 29
+- Deployed BuilderScore contract
+- 
