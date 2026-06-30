@@ -168,4 +168,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 32
 - Deployed SimpleVote contract
 - Governance starts with simple voting contracts
-- 
+- Voted: Base is the best chain
+
+
